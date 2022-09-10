@@ -125,7 +125,6 @@ export default function App() {
                 style={{
                   fontSize: "smaller",
                   padding: "4px",
-                  fontSize: "15px"
                 }}
               >
                 {" "}
